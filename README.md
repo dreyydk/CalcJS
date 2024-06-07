@@ -16,7 +16,7 @@ CalcJS has the following features:
 
 ## Project Image 📷
 
-<img width="1250" alt="image" src="https://github.com/dreyydk/CalcJS/assets/169372866/633a823a-a270-4599-a2c0-c55a6acd101d">
+<img width="1250" alt="image" src="https://cdn.discordapp.com/attachments/852993651008208949/1248498027635675227/image.png?ex=6663e1e5&is=66629065&hm=0b301af6a50767e5b90f49e33d273460332c0949735c40df1c82d63bd4a1ae4b&">
 
 ## How to test it ✅
 
